@@ -54,10 +54,10 @@ Then integrate it into an **interactive Command Line Interface (CLI)** that allo
    - User can type messages and get instant results.
 
 Metric	Score
-Accuracy	0.98
-Precision	0.97
-Recall	0.88
-F1-score	0.92
+Accuracy    	0.98
+Precision	    0.97
+Recall	   0.88
+F1-score	    0.92
 
 ✅ Conclusion:
 The Naive Bayes classifier, combined with TF-IDF, achieved excellent performance for short-text spam detection.
