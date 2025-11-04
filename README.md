@@ -12,7 +12,7 @@ Then integrate it into an **interactive Command Line Interface (CLI)** that allo
   - **Ham (0):** Normal messages  
   - **Spam (1):** Unwanted / promotional messages
  
-  - ### ⚙️ **Technologies Used**
+- ### ⚙️ **Technologies Used**
 - **Language:** Python  
 - **Libraries:**  
   - pandas, numpy — data handling  
